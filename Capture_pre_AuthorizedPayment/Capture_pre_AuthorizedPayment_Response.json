@@ -1,0 +1,27 @@
+{
+    "details": {
+        "approvalCode": "000000",
+        "approvedTransactionAmount": null,
+        "binCard": "411111",
+        "binInfo": {
+            "bank": "JPMORGAN CHASE BANK, N.A."
+        },
+        "cardHolderName": "CARD TEST",
+        "currencyCode": "USD",
+        "fullResponse": true,
+        "lastFourDigits": "1111",
+        "maskedCardNumber": "411111XXXX1111",
+        "merchantId": "20000000106376098000",
+        "merchantName": "TestIntegration",
+        "paymentBrand": "Visa",
+        "processorBankName": null,
+        "processorId": "1000000730293975093115909595678",
+        "processorName": "VisaNet Processor",
+        "syncMode": "online",
+        "ticketNumber": "089273261924296025",
+        "transactionReference": "d8e3174c-653b-451e-9cb3-ba39aaf2db73",
+        "transactionType": "CAPTURE",
+        "acquirerBank": null
+    },
+    "ticketNumber": "089273261924296025"
+}
