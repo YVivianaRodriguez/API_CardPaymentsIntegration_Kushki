@@ -1,0 +1,23 @@
+
+
+//	Host: https://api-uat.kushkipagos.com/
+//	POST: /card/v1/capture
+//	Private-Merchant-Id: 125fcb7119**********df9abcd1e
+//	Public-Merchant-Id: 87f1ccbb0a**********9144319968
+//	Content-Type: application/json
+//	Accept: application/json
+
+{
+  "ticketNumber": "282147312735539826",
+  "amount": {
+    "currency": "USD",
+    "subtotalIva": 0,
+    "iva": 0,
+    "subtotalIva0": 100,
+    "ice": 0
+  },
+  "fullResponse": true,
+  "metadata": {
+    "customerId": "CLI0001PE"
+  }
+}
