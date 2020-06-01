@@ -1,0 +1,20 @@
+
+
+//	Host: https://api-uat.kushkipagos.com/
+//	POST: /card/v1/tokens
+//	Private-Merchant-Id: 125fcb7119**********df9abcd1e
+//	Public-Merchant-Id: 87f1ccbb0a**********9144319968
+//	Content-Type: application/json
+//	Accept: application/json
+
+{
+  "card": {
+    "name": "CARD TEST",
+    "number": "4111111111111111",
+    "expiryMonth": "10",
+    "expiryYear": "25",
+    "cvv": "121"
+  },
+  "totalAmount": 100,
+  "currency": "USD"
+}
