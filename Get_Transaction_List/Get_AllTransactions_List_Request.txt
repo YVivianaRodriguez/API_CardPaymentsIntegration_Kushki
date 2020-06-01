@@ -1,0 +1,8 @@
+
+//  Host: https://api-uat.kushkipagos.com/
+//	GET: /analytics/v1/transactions-list?QueryParams
+//	Private-Merchant-Id: 125fcb7119**********df9abcd1e
+//	Public-Merchant-Id: 87f1ccbb0a**********9144319968
+//	Accept: application/json
+
+GET https://api-uat.kushkipagos.com/analytics/v1/transactions-list?from=2020-05-31T00:00:00&to=2020-06-01T22:00:00
