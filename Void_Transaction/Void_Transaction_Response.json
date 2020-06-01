@@ -1,0 +1,47 @@
+{
+    "ticketNumber": "661590994878906736",
+    "details": {
+        "saleTicketNumber": "282147312735539826",
+        "metadata": {
+            "customerId": "CLI0001PE"
+        },
+        "processorName": "VisaNet Processor",
+        "paymentBrand": "Visa",
+        "responseText": "Transacción aprobada",
+        "cardType": null,
+        "currencyCode": "USD",
+        "transactionId": "4ade9065-4da3-42a3-b781-b955cf92fd8e",
+        "responseCode": "000",
+        "fullResponse": true,
+        "binCard": "411111",
+        "ivaValue": 0,
+        "iceValue": 0,
+        "issuingBank": "JPMORGAN CHASE BANK, N.A.",
+        "token": "8926a646d2394a90ab065e55b47bdca9",
+        "subtotalIva": 0,
+        "processorId": "1000000730293975093115909595678",
+        "requestAmount": 100,
+        "lastFourDigits": "1111",
+        "cardHolderName": "CARD TEST",
+        "syncMode": "online",
+        "transactionStatus": "INITIALIZED",
+        "ip": "186.84.21.126",
+        "merchantName": "TestIntegration",
+        "created": 1590965760000,
+        "credentialAlias": "TestIntegration",
+        "approvalCode": "000000",
+        "acquirerBank": null,
+        "tokenType": "transaction-token",
+        "subtotalIva0": 100,
+        "maskedCardNumber": "411111XXXXXX1111",
+        "processorBankName": null,
+        "merchantId": "20000000106376098000",
+        "credentialId": "27659f0abef9436d84f6d8c3dc3b019c",
+        "transactionType": "VOID",
+        "approvedTransactionAmount": 100,
+        "transactionReference": "4ade9065-4da3-42a3-b781-b955cf92fd8e",
+        "binInfo": {
+            "bank": "JPMORGAN CHASE BANK, N.A."
+        }
+    }
+}
