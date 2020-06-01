@@ -1,0 +1,43 @@
+{
+    "ticketNumber": "282147312735539826",
+    "details": {
+        "token": "8926a646d2394a90ab065e55b47bdca9",
+        "fullResponse": true,
+        "currencyCode": "USD",
+        "acquirerBank": null,
+        "ip": "186.84.21.126",
+        "maskedCardNumber": "411111XXXXXX1111",
+        "approvedTransactionAmount": 100,
+        "subtotalIva": 0,
+        "subtotalIva0": 100,
+        "created": 1590965760000,
+        "responseCode": "000",
+        "transactionType": "PREAUTHORIZATION",
+        "approvalCode": "000000",
+        "transactionStatus": "APPROVAL",
+        "syncMode": "online",
+        "merchantId": "20000000106376098000",
+        "transactionId": "284880552968298007",
+        "metadata": {
+            "customerId": "CLI0001PE"
+        },
+        "responseText": "Transacción aprobada",
+        "cardHolderName": "CARD TEST",
+        "lastFourDigits": "1111",
+        "binCard": "411111",
+        "paymentBrand": "Visa",
+        "cardType": "",
+        "iceValue": 0,
+        "requestAmount": 100,
+        "ivaValue": 0,
+        "merchantName": "TestIntegration",
+        "processorBankName": "",
+        "transactionReference": "11316fc1-1a61-4fb8-a751-c7028c2e27d6",
+        "issuingBank": "JPMORGAN CHASE BANK, N.A.",
+        "binInfo": {
+            "bank": "JPMORGAN CHASE BANK, N.A."
+        },
+        "cardCountry": "United States of America",
+        "rules": []
+    }
+}
